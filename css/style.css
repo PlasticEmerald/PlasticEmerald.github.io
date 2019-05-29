@@ -95,7 +95,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin: 0;
 	font-size: 14px;
 	border-radius: 0;
-	margin-top: 20px;
+	margin-top: 30px;
 	margin-right: 30px;
 	transition: all 0.5s;
 }
