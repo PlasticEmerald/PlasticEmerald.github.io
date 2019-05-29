@@ -92,7 +92,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background-color: transparent;
 	border: 2px solid #444;
 	padding: 20px 20px;
-	margin: 0;
+	margin: 10px;
 	font-size: 14px;
 	border-radius: 0;
 	margin-top: 30px;
