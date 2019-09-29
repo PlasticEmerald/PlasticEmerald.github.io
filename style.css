@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva|Ubuntu+Mono&display=swap');
+
+/* font-family: 'Mansalva', cursive;
+ * font-family: 'Ubuntu Mono', monospace;
+ */
+
+/*
+ * #906E3E (Khaki Brown)
+ */
+
 body, html {
 	font-family: 'Montserrat', sans-serif;
 	text-rendering: optimizeLegibility !important;
