@@ -12,6 +12,10 @@
 	font-family: 'Unbutu Mono', monospace;
 }
 
+::selection {
+	background: #DDDFDB;
+}
+
 h1 {
 	color: #906E3E;
 	font-size: 64px;
