@@ -8,22 +8,13 @@
  * #906E3E (Khaki Brown)
  */
 
-body, html {
-	font-family: 'Montserrat', sans-serif;
-	text-rendering: optimizeLegibility !important;
-	-webkit-font-smoothing: antialiased !important;
-	color: #555;
-	font-weight: 400;
-	width: 100% !important;
-	height: 100% !important;
-}
 h1 {
-	color: #333;
+	color: #906E3E;
 	font-size: 64px;
-	font-weight: 800;
+	font-weight: bold;
 	margin-top: 0;
 	text-transform: uppercase;
-	margin-bottom: 10px;
+	padding: 1vw;
 }
 h2 {
 	margin: 0 0 20px 0;
