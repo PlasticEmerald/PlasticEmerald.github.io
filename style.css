@@ -12,6 +12,10 @@
 	font-family: 'Unbutu Mono', monospace;
 }
 
+::selection {
+	background: #C2AF95;
+}
+
 body {
 	background: #DDDFDB;
 }
