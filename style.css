@@ -46,3 +46,27 @@ p {
 	font-weight: 400;
 	color: #888;
 }
+
+.nav {
+	overflow: hidden;
+	background-color: #333333;
+}
+
+.nav a {
+	float: left;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 14px, 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.nav a:hover {
+	background-color: #DDDDDD;
+	color: #000000;
+}
+
+.nav a.active {
+	background-color: #906E3E;
+	color: white;
+}
