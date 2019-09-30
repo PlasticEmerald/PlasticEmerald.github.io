@@ -12,10 +12,6 @@
 	font-family: 'Unbutu Mono', monospace;
 }
 
-::selection {
-	background: #C2AF95;
-}
-
 body {
 	background: #E8E8E9;
 }
@@ -47,6 +43,8 @@ p {
 	color: #888;
 }
 
+
+/* For Navigation Bar */
 .nav {
 	overflow: hidden;
 	background-color: #333333;
@@ -56,7 +54,7 @@ p {
 	float: left;
 	color: #FFFFFF;
 	text-align: center;
-	padding: 14px, 16px;
+	padding: 20px, 50px;
 	text-decoration: none;
 	font-size: 17px;
 }
