@@ -20,6 +20,12 @@ body {
 	background: #E8E8E9;
 }
 
+hr {
+	color: #906E3E;
+	border: none;
+	height: 5px;
+}
+
 h1 {
 	color: #906E3E;
 	font-size: 64px;
