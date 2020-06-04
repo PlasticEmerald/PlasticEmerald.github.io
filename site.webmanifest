@@ -1,0 +1,16 @@
+{
+  "short_name": "tannerbart",
+  "name": "Tanner Bart",
+  "lang": "en-US",
+  "description": "Tanner Bart's Personal Website",
+  "icons":[
+    {
+      
+    },
+    {
+
+    }],
+    "start_url": "",
+    "backgroound_color": "#E8E8E9",
+    "theme_color": "#906E3E"
+}
