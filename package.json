@@ -7,7 +7,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "deploy": "ng build --prod --repo=https://github.com/PlasticEmerald/PlasticEmerald.github.io.git --base-href=https://tannerbart.com/ && angular-cli-ghpages --branch=gh-pages"
   },
   "private": true,
   "dependencies": {
