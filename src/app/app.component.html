@@ -1,7 +1,7 @@
-<div>
-  <hr>
-  <h1 class="flexbox">Website Currently Under Construction</h1>
-  <img src="../assets/img/glasses.png"/>
-  <hr>
+
+<div id="header">
+  <button (click)="visibleSideBar = true">Show Side</button>
 </div>
+<p-sidebar id="side-bar" [(visible)]="visibleSideBar" [style]="{width:'30em'}"> Content </p-sidebar>
 <router-outlet></router-outlet>
+

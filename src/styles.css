@@ -1,5 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 * {
-    background-color: black;
-    color: white;
+    background-color: #DDD3C1;
+}
+
+.p-sidebar-content {
+  background-color: red !important;
+  height: 100%;
+  opacity: 0.8;
 }

@@ -16,7 +16,11 @@
      width: 50%;
      color: white;
  }
- 
+
  img {
      padding-bottom: 20px;;
+ }
+
+ #side-bar {
+   display: block;
  }
