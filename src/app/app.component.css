@@ -7,9 +7,9 @@
     -moz-osx-font-smoothing: grayscale;
   }
 
- div {
-     text-align: center;
- }
+ /*div {*/
+ /*    text-align: center;*/
+ /*}*/
 
  hr {
      width: 50%;
@@ -17,23 +17,47 @@
  }
 
  #header {
-   display: block;
-    margin-left: -10px;
    width: 100%;
-   width: 110vw;
    height: 75px;
    background: #6F5D3D !important;
    z-index: 1;
    border: 0;
+   overflow: hidden;
  }
 
  #hamburger-menu {
-   float: left;
-   margin-left: 40px;
+   text-align: center;
+   /*float: left;*/
+    float: left;
+   margin-left: 30px;
    padding-top: 25px;
    width: 50px;
    height: 50px;
  }
+
+ #links {
+   float: right;
+   margin-right: 50px;
+   font-size: 25px;
+   width: 100px;
+   margin-top: 20px;
+ }
+
+ #linkedInIcon {
+   margin-right: 25px;
+   text-decoration: none !important;
+   color: black !important;
+ }
+
+ #gitHubIcon {
+   text-decoration: none !important;
+   color: black !important;
+ }
+
+.clear {
+  clear: left;
+  display: block;
+}
 
  #hamburger-menu:hover {
    background-color: #DDD3C1;

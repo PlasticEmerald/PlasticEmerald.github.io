@@ -14,3 +14,7 @@ body {
 .p-sidebar-close {
   display: none;
 }
+
+.p-sidebar-close-icon {
+  display: none !important;
+}
